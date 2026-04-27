@@ -46,7 +46,7 @@ Git | Firebase | Vite
 
 LinkedIn: https://www.linkedin.com/in/vijaya-omkar-bolisetti-myurl/
 Email: [vijayaomkarbolisetti@gmail.com](mailto:vijayaomkarbolisetti@gmail.com)
-x## Hi there 👋
+
 
 <!--
 **vijayomkarbolisetti/vijayomkarbolisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
